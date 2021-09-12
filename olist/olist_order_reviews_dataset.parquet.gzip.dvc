@@ -1,0 +1,4 @@
+outs:
+- md5: 1b393f75dfca2c0cca9f72d4146c3e14
+  size: 6086690
+  path: olist_order_reviews_dataset.parquet.gzip

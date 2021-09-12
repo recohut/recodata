@@ -1,0 +1,4 @@
+outs:
+- md5: f56b34c8aef6260e05f4dcbf322344e4
+  size: 6685274
+  path: olist_orders_dataset.parquet.gzip

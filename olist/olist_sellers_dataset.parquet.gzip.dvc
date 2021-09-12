@@ -1,0 +1,4 @@
+outs:
+- md5: 86aa80dedaaaa505f9a6bdc5b71b2241
+  size: 90372
+  path: olist_sellers_dataset.parquet.gzip

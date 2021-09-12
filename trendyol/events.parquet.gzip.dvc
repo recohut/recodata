@@ -1,0 +1,4 @@
+outs:
+- md5: e6b31f6e2b9fa2174fca133c590d428b
+  size: 5108352
+  path: events.parquet.gzip

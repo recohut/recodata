@@ -1,0 +1,4 @@
+outs:
+- md5: 7a16e4c1b9f4f4a6d998d5fa386bcd8f
+  size: 2471854
+  path: olist_order_payments_dataset.parquet.gzip

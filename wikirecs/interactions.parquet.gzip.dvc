@@ -1,0 +1,4 @@
+outs:
+- md5: 9d8f010523b74b6a3e76a2cb4e8162e2
+  size: 157053912
+  path: interactions.parquet.gzip

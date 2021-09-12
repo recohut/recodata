@@ -1,0 +1,4 @@
+outs:
+- md5: c1e973230ee8552dd153ab8bd6ee4c85
+  size: 56967942
+  path: cosmetic2019dec.parquet.gzip

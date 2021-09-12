@@ -1,0 +1,4 @@
+outs:
+- md5: a25d1d68187b645f1440e3a884cde357
+  size: 10387816
+  path: shared_articles.parquet.snappy

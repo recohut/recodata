@@ -1,0 +1,5 @@
+/item_metadata.parquet.gzip
+/train.parquet.gzip
+/validation.parquet.gzip
+/test.parquet.gzip
+/confirmation.parquet.gzip

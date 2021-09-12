@@ -1,0 +1,4 @@
+outs:
+- md5: eaf1196b01a513f7f0e09580f16de5c1
+  size: 38112123
+  path: items.parquet.gzip

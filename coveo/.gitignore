@@ -1,0 +1,4 @@
+/browsing.parquet.gzip
+/search.parquet.gzip
+/metadata.parquet.gzip
+/label_encoders.pickle

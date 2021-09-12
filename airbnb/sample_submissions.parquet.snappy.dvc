@@ -1,0 +1,4 @@
+outs:
+- md5: e7dcf1154d08c2c4f2213815bd6deeb6
+  size: 866531
+  path: sample_submissions.parquet.snappy

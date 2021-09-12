@@ -1,0 +1,4 @@
+outs:
+- md5: da62f21a0a185ee902e06c43fbfb372d
+  size: 56321
+  path: merchant.parquet.snappy

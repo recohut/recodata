@@ -1,0 +1,4 @@
+outs:
+- md5: 0c86879af6707bcefb1f134ea2a0003f
+  size: 17230324
+  path: buys.parquet.snappy

@@ -1,0 +1,4 @@
+outs:
+- md5: 0a463544226985f0b684043fd0dbae1b
+  size: 964196
+  path: olist_products_dataset.parquet.gzip

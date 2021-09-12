@@ -1,0 +1,4 @@
+outs:
+- md5: d2435a7489180c0f085bbc923c066e84
+  size: 12848897
+  path: confirmation.parquet.gzip

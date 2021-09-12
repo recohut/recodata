@@ -1,0 +1,9 @@
+/olist_customers_dataset.parquet.gzip
+/olist_sellers_dataset.parquet.gzip
+/olist_geolocation_dataset.parquet.gzip
+/olist_products_dataset.parquet.gzip
+/olist_order_payments_dataset.parquet.gzip
+/olist_orders_dataset.parquet.gzip
+/product_category_name_translation.parquet.gzip
+/olist_order_items_dataset.parquet.gzip
+/olist_order_reviews_dataset.parquet.gzip

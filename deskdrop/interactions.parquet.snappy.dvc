@@ -1,0 +1,4 @@
+outs:
+- md5: 34ee445063ea11f4b406ea5cfca15f64
+  size: 1256629
+  path: interactions.parquet.snappy

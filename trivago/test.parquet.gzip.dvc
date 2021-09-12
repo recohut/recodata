@@ -1,0 +1,4 @@
+outs:
+- md5: 207ed6ce43073c2c1a27bc486351e7cc
+  size: 61255514
+  path: test.parquet.gzip

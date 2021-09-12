@@ -1,0 +1,4 @@
+outs:
+- md5: 3f535e2abd8444407ba2a24ac96046f2
+  size: 197384996
+  path: train.parquet.gzip

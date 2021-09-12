@@ -1,0 +1,4 @@
+outs:
+- md5: 81aca19830754bf31c5b458660560dae
+  size: 4259
+  path: product_category_name_translation.parquet.gzip

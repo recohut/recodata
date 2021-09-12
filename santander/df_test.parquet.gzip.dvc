@@ -1,0 +1,4 @@
+outs:
+- md5: 2ff2dcc7a573a35a19565d452b432d2d
+  size: 8887324
+  path: df_test.parquet.gzip

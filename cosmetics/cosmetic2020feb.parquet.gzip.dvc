@@ -1,0 +1,4 @@
+outs:
+- md5: ef1aae575a118f50075af33921fe04af
+  size: 65766503
+  path: cosmetic2020feb.parquet.gzip

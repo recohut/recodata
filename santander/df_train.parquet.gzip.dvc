@@ -1,0 +1,4 @@
+outs:
+- md5: fccde07c818febf624d407e183d8b2d0
+  size: 130779792
+  path: df_train.parquet.gzip

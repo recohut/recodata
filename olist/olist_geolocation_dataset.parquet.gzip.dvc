@@ -1,0 +1,4 @@
+outs:
+- md5: 756abcb3dacb516649ab87ba6aed5b4b
+  size: 13053623
+  path: olist_geolocation_dataset.parquet.gzip

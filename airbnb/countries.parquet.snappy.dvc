@@ -1,0 +1,4 @@
+outs:
+- md5: f499e36a9a4cbf2267db950c33cb286f
+  size: 6514
+  path: countries.parquet.snappy

@@ -1,0 +1,4 @@
+outs:
+- md5: 8ca3a6a1024d4d56692b2f47edb0b271
+  size: 4480666
+  path: olist_customers_dataset.parquet.gzip
