@@ -1,0 +1,4 @@
+outs:
+- md5: a3b78f52ee024208ac257f1c884b1c06
+  size: 7039213
+  path: udemy_reviews.parquet.gzip

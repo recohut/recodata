@@ -1,0 +1,4 @@
+outs:
+- md5: 97bfb3e59f8231c7d3cd73c1833939d8
+  size: 3388
+  path: sample_dayc1c2.parquet.snappy

@@ -1,0 +1,4 @@
+outs:
+- md5: 02f871fdf520aae919cb4f3e7b16ae81
+  size: 245391
+  path: anime_genres.parquet.snappy

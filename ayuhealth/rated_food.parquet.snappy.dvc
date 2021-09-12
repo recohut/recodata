@@ -1,0 +1,4 @@
+outs:
+- md5: d8b8da023a5b9cb717724e3f0356a84e
+  size: 23257
+  path: rated_food.parquet.snappy

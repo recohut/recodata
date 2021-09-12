@@ -1,0 +1,4 @@
+outs:
+- md5: c6606be837f552c20f48c74c9209813e
+  size: 310309
+  path: job_clicks.parquet.snappy

@@ -1,0 +1,4 @@
+outs:
+- md5: 1872a6c41c605288cff54fc749bb734e
+  size: 12172
+  path: ratings.parquet.snappy

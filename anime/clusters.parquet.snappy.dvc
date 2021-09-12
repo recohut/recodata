@@ -1,0 +1,4 @@
+outs:
+- md5: b191c690ac6608ac2297344d0caacdc5
+  size: 215279
+  path: clusters.parquet.snappy

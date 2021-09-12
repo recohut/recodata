@@ -1,0 +1,4 @@
+outs:
+- md5: 0d7df6ec981115a9fa166b97bd664163
+  size: 28911528
+  path: udemy_courses.parquet.gzip

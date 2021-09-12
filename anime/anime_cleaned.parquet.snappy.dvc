@@ -1,0 +1,4 @@
+outs:
+- md5: 40a3c0195dfc2e9f90c275cb114506f7
+  size: 2509790
+  path: anime_cleaned.parquet.snappy
