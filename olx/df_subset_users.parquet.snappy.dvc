@@ -1,0 +1,4 @@
+outs:
+- md5: 1d9fa3db0fe36a5ea0de11913d593833
+  size: 72127879
+  path: df_subset_users.parquet.snappy

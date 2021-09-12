@@ -1,0 +1,4 @@
+outs:
+- md5: 622fe811c65cf0e0f6472895bc017f74
+  size: 13987372
+  path: train-item-views.parquet.snappy

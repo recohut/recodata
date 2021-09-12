@@ -1,0 +1,4 @@
+outs:
+- md5: 58d08c333da3c65047f786023b5c94e4
+  size: 72862
+  path: users.parquet.snappy

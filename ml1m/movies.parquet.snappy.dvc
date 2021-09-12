@@ -1,0 +1,4 @@
+outs:
+- md5: 211075e57f63c1c7f6136378d4235edf
+  size: 105767
+  path: movies.parquet.snappy

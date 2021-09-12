@@ -1,0 +1,4 @@
+outs:
+- md5: 91bba04755ad2875621ab9296f2281ca
+  size: 4450345
+  path: products.parquet.snappy

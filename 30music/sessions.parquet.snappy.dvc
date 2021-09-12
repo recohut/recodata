@@ -1,0 +1,4 @@
+outs:
+- md5: e435a93ac4e4aa4ab68c603dadab18ea
+  size: 33724672
+  path: sessions.parquet.snappy
