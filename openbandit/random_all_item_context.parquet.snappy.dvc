@@ -1,0 +1,4 @@
+outs:
+- md5: a60347559b99ccd1d74736446c5be134
+  size: 8094
+  path: random_all_item_context.parquet.snappy

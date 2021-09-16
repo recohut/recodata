@@ -1,0 +1,4 @@
+outs:
+- md5: 3dbe10501c3c5f77eb727bd6235fcffc
+  size: 272398
+  path: random_women.parquet.snappy

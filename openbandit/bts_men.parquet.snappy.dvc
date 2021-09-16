@@ -1,0 +1,4 @@
+outs:
+- md5: f83f145d87e2959dfb41a9f24c52bfe5
+  size: 334674
+  path: bts_men.parquet.snappy

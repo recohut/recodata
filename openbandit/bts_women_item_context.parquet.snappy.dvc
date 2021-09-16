@@ -1,0 +1,4 @@
+outs:
+- md5: fe4d05e686e09402c37010b72593f7fb
+  size: 7256
+  path: bts_women_item_context.parquet.snappy

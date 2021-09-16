@@ -1,0 +1,4 @@
+outs:
+- md5: a204878fb907a3525b8af087dca68122
+  size: 8092
+  path: bts_all_item_context.parquet.snappy
